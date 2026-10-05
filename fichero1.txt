@@ -1,1 +1,2 @@
 Primera linea en local fichero1.txt
+Segunda linea en gitHub fichero1.txt
